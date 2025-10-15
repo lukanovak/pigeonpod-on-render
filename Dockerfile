@@ -1,2 +1,2 @@
-FROM ghcr.io/aizhimou/pigeon-pod:latest
+FROM ghcr.io/aizhimou/pigeonpod:latest
 EXPOSE 8080
